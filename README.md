@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 ## Project Overview
-Responsive personal portfolio website for **Sana Shanmuka Siva Ram Santosh**.
+Responsive personal portfolio website**.
 
 ## Technologies Used
 - HTML5
